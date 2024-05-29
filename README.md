@@ -19,6 +19,10 @@ Here are some of our key projects:
 2. **Kopa Pay**
    - Description: A Social Working App.
    - Technologies: React Native, Node.js, MongoDB.
+   
+3. **Uni App**
+   - Description: Ride Hailing App.
+   - Technologies: React Native, Node.js, MongoDB.
 
 ## Technologies We Use
 
