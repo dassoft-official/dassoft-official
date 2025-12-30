@@ -1,4 +1,4 @@
-# Dassoft
+# Dassoft (Private) Limited
 ### Where Innovation Knows No Limits!
 
 Dassoft is a full-stack product engineering and deep-technology company focused on building **scalable platforms, intelligent automation systems, and AI-driven enterprise solutions**.
