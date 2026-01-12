@@ -70,6 +70,15 @@ Student-focused job readiness and placement platform integrated with universitie
 ### Marketplace — Ebey.pk
 Multi-vendor online marketplace platform.
 
+### HRM System (Human Resource Management)
+A comprehensive HR management platform covering recruitment, attendance, payroll, performance tracking, and employee lifecycle management.
+
+### ERP System (Enterprise Resource Planning)
+An integrated ERP solution managing finance, inventory, procurement, operations, and reporting across organizations.
+
+### Park Management System
+A centralized system for managing public and private parks, including ticketing, vendor management, access control, operations, and reporting.
+
 ### Portfolio Websites
 Design and development of hundreds of business and portfolio websites.
 
