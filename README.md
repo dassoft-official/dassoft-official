@@ -64,7 +64,7 @@ Cybersecurity platform focused on endpoint visibility, detection, and response.
 ### Ziffii — Labor Marketplace
 Service marketplace connecting skilled labor with customers.
 
-### Jobsata — AI-Powered Job Platform
+### Jobsta — AI-Powered Job Platform
 Student-focused job readiness and placement platform integrated with universities and companies.
 
 ### Marketplace — Ebey.pk
